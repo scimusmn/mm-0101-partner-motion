@@ -26,3 +26,6 @@ At this point, you should be ready to run the custom Partner Motion install.
 
 # Run the application
 The application should start correctly after rebooting the computer.
+
+# Hardware Notes
+This is a legacy application that does not run true fullscreen, and unfortunately displays a menu bar. Therefore, the screen being used must either offset 60px via settings, or the cabinet must be built to cover the menu bar with a lip.
