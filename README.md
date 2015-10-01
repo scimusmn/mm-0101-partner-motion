@@ -10,9 +10,7 @@ Once the Boxen script has run through without errors, you can run the custom Par
     
 Note this project does not require any files from this Git repository. This README.md is the only file here.
 
-Manually set the Exhibits user to auto log in. 
-
-System Preferences > Users & Groups > Login Options > Automatic login: "Exhibits"
+Manually set the Exhibits user to auto log in. Go to System Preferences > Users & Groups > Login Options > Automatic login: "Exhibits"
 
 # Run the application
 The application should start correctly after rebooting the computer.
