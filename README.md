@@ -7,8 +7,9 @@ First, manually set the Exhibits user to auto log in. Go to System Preferences >
 
 With a little setup, you can install this application using the private SMM Boxen repo. This requires an internal SMM account.
 First, install the basic boxen repo, using our [Boxen setup script](https://github.com/scimusmn/boxen-setup). 
-Once the Boxen script has run through without errors, you should setup AWS sync access.
-Open Terminal and run these commands:
+Once the Boxen script has run through without errors, move on to setting up AWS access below.
+
+To setup AWS sync access, open Terminal and run these commands:
 
     sudo easy_install pip
     sudo pip install awscli
