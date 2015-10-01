@@ -8,9 +8,10 @@ Once the Boxen script has run through without errors, you can run the custom Par
 
     boxen mm_0101_partner_motion
     
-Note this project does not require any files from this Git repository. This is why this README.md is the only file.
+Note this project does not require any files from this Git repository. This README.md is the only file here.
 
-You must manually set the Exhibits user to auto login. Go to System Preferences > Users & Groups > Login Options > Automatic login: "Exhibits"
+Manually set the Exhibits user to auto login. 
+System Preferences > Users & Groups > Login Options > Automatic login: "Exhibits"
 
 # Run the application
 The application should start correctly after rebooting the computer.
