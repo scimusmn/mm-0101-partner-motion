@@ -15,7 +15,7 @@ To setup AWS sync access, open Terminal and run these commands:
     sudo pip install awscli
     aws configure
     
-You will be asked for two keys. Log in to LastPass and copy the keys found under "Amazon key - smm-machines". 
+You will be asked for two keys. Login to [LastPass](https://lastpass.com/) and copy the keys found under "Amazon key - smm-machines". 
 For region name, enter ```us-west-2```.
 For output format, enter ```JSON```.
 
