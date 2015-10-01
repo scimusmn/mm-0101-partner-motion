@@ -2,7 +2,7 @@
 
 ## Install instructions
 
-First, manually set the Exhibits user to auto log in. Go to System Preferences > Users & Groups > Login Options > Automatic login: "Exhibits"
+This project does not require any files from this Git repository. This README.md is the only file here!
 
 
 With a little setup, you can install this application using the private SMM Boxen repo. This requires an internal SMM account.
@@ -24,8 +24,6 @@ At this point, you should be ready to run the custom Partner Motion install.
 
     boxen mm_0101_partner_motion
     
-
-Note this project does not require any files from this Git repository. This README.md is the only file here.
 
 
 # Run the application
