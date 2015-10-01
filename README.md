@@ -5,7 +5,7 @@
 This project does not require any files from this Git repository. This README.md is the only file here!
 
 
-If starting with a fresh out-of-box machine, start with the (official exhibit computer setup)[http://projects.smm.org/atrium/media/node/280246].  Once base Boxen has successfully been installed, move on to setting up AWS access below.
+If starting with a fresh out-of-box machine, start with the [official exhibit computer setup](http://projects.smm.org/atrium/media/node/280246).  Once base Boxen has successfully been installed, move on to setting up AWS access below.
 
 To setup AWS sync access, open Terminal and run these commands:
 
