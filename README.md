@@ -13,8 +13,8 @@ Once base Boxen has successfully been installed, you should be ready to run the 
     
 
 
-# Run the application
+## Run the application
 The application should start correctly after rebooting the computer.
 
-# Hardware Note
+## Hardware Note
 This is a legacy application that does not run fullscreen and unfortunately displays a menu bar. Therefore, the screen being used must either offset 60px via settings, or the cabinet must be built to cover the menu bar with a lip.
