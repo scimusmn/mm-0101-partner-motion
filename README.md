@@ -11,7 +11,7 @@ Once base Boxen has successfully been installed, you should be ready to run the 
 
     boxen mm_0101_partner_motion
     
-
+After the process completes, go to System Preferences > Cursorcerer. Set "Hide idle cursor after" to 5 seconds.
 
 ## Run the application
 The application should start correctly after rebooting the computer.
